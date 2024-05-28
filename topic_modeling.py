@@ -11,7 +11,7 @@ nltk.download('punkt')
 nltk.download('wordnet')
 
 
-
+#check
 # preprocess
 stop_words = set(stopwords.words('english') + [
     "oh", "im", "yeah", "like", "got", "dont", "youre", "ive", "didnt", "well",
